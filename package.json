@@ -1,0 +1,21 @@
+{
+  "name": "metric-test-app",
+  "version": "0.1.0",
+  "author": "Nill Kiggers",
+  "description": "Test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexCherkashov/npm-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexCherkashov/npm-test/issues"
+  },
+  "homepage": "https://github.com/AlexCherkashov/npm-test#readme"
+}
